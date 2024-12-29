@@ -1,0 +1,20 @@
+<svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family: 'Fira Code', monospace; font-size: 40px; font-weight: bold; }
+    .subtitle { font-family: 'Fira Code', monospace; font-size: 20px; }
+  </style>
+  <!-- Title -->
+  <text x="50" y="60" class="title">
+    <tspan fill="#FF5733">T</tspan>
+    <tspan fill="#FFC300">u</tspan>
+    <tspan fill="#DAF7A6">a</tspan>
+    <tspan fill="#33FF57">n</tspan>
+    <tspan fill="#3357FF">a</tspan>
+    <tspan fill="#A633FF" dx="10">E</tspan>
+    <tspan fill="#FF33A6">r</tspan>
+    <tspan fill="#FF5733">o</tspan>
+    <tspan fill="#FFC300">l</tspan>
+  </text>
+  <!-- Subtitle -->
+  <text x="50" y="110" class="subtitle" fill="#1EF79A">Code and Design Enthusiast</text>
+</svg>
